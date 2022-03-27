@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#background {
+    background: url(images/Background.png) no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+/* Navigation Bar */
+.nav-container {
+    width: 100%;
+    height: 7%;
+    background-color: transparent;
+}
+
+.nav {
+    display: flex;
+}
+
+/* other on Navigation Bar*/
+
+.logo {
+    font-family: 'Fira Sans';
+    font-size: calc(1rem + 0.8vmin);
+    color: #FFFFFF;
+
+    padding: 10px 10px;
+}
+
+.logo .hl {
+    color: #FF8700;
+}
+
+.other-path {
+    display: flex;
+    justify-content: center;
+    width: 87%;
+    height: 7%;
+
+    padding: 12px 0;
+}
+
+.other-path .img {
+    font-family: 'Fira Sans';
+    font-size: calc(0.8rem + 0.8vmin);
+    padding: 0 10px;
+    color: #FFFFFF;
+    text-decoration: none;
+    transition: all 0.25s ease;
+}
+
+.other-path .img:hover {
+    color: #FF8700;
+    transform: translate(0, -5px);
+}
+
+.other-path .fb {
+    font-family: 'Fira Sans';
+    font-size: calc(0.8rem + 0.8vmin);
+    padding: 0 10px;
+    color: #FF7C02;
+    text-decoration: none;
+    transition: all 0.25s ease;
+}
+
+.other-path .fb:hover {
+    color: #FFFFFF;
+    transform: translate(0, -5px);
+}
+
+/* Main */
+.main-container {
+    width: 100%;
+    height: 90vh;
+    background-color: transparent;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 75vh;
+}
+
+/* other on Main */
+.card-container {
+    width: 30%;
+    height: calc(60vh);
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
