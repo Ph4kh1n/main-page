@@ -94,3 +94,7 @@
     background-color: #FFFFFF;
     border-radius: 10px;
 }
+
+@media only screen and (max-width: 400px) {
+    
+}
