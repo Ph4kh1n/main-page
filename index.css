@@ -110,6 +110,6 @@
 
     .card-container {
         width: calc(90% - 10%);
-        height: calc(60vh + 15vh);
+        height: calc(60vh + 5vh);
     }
 }
