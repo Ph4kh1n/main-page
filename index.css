@@ -102,13 +102,14 @@
     transform: translate(0, -10px);
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1000px) {
     .other-path {
         display: flex;
         justify-content: flex-end;
     }
 
     .card-container {
-        width: 90%;
+        width: calc(90% - 10%);
+        height: calc(60vh + 15vh);
     }
 }

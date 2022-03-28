@@ -2,3 +2,12 @@
     margin: 0;
     padding: 10px;
 }
+
+html {
+    font-family: 'Fira Sans';
+}
+
+.dark-wild .img {
+    width: 100%;
+    height: auto;
+}
