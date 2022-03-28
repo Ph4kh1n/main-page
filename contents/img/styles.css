@@ -1,13 +1,20 @@
 * {
     margin: 0;
-    padding: 10px;
+    padding: 0;
 }
 
 html {
     font-family: 'Fira Sans';
 }
 
-.dark-wild .img {
+.dark-wild p {
+    padding: 10px 10px;
     width: 100%;
+}
+
+.dark-wild .img {
+    width: calc(100% - 100px);
     height: auto;
+
+    padding: 10px 10px;
 }
