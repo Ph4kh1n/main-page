@@ -9,11 +9,11 @@ html {
 
 .dark-wild p {
     padding: 10px 10px;
-    width: 100%;
+    width: 80%;
 }
 
 .dark-wild .img {
-    width: calc(100% - 100px);
+    width: 60%;
     height: auto;
 
     padding: 10px 10px;
