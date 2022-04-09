@@ -112,4 +112,7 @@
 .footer .text {
     font-family: 'Fira sans';
     color: #FFFFFF;
+    font-size: calc(0.5rem + 0.8vmin);
+
+    padding: 0 5px;
 }

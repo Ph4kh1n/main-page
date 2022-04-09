@@ -12,4 +12,9 @@
     .dark-wild .img {
         width: 95%;
     }
+
+    .footer-container {
+        display: flex;
+        justify-content: center;
+    }
 }
