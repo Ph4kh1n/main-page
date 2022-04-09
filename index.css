@@ -101,3 +101,15 @@
 .card-container:hover {
     transform: translate(0, -10px);
 }
+
+/* Footer */
+.footer-container {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.footer .text {
+    font-family: 'Fira sans';
+    color: #FFFFFF;
+}
