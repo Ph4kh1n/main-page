@@ -57,7 +57,7 @@
     transform: translate(0, -5px);
 }
 
-.other-path .fb {
+.other-path .github {
     font-family: 'Fira Sans';
     font-size: calc(0.8rem + 0.8vmin);
     padding: 0 10px;
@@ -91,7 +91,7 @@
 .card-container {
     width: 30%;
     height: calc(60vh);
-    background: url(images/Kalina.jpg) no-repeat center center;
+    background: url(images/Carley.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 10px;
 
