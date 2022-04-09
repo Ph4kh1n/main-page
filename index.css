@@ -91,7 +91,7 @@
 .card-container {
     width: 30%;
     height: calc(60vh);
-    background: url(images/Carley.png) no-repeat center center;
+    background: url(images/Kalina.jpg) no-repeat center center;
     background-size: cover;
     border-radius: 10px;
 
@@ -100,4 +100,15 @@
 
 .card-container:hover {
     transform: translate(0, -10px);
+}
+
+/* Footer */
+.footer-container {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+.footer .text {
+    font-family: 'Fira Sans';
+    color: #FFFFFF;
 }
