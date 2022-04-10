@@ -43,7 +43,7 @@
     padding: 12px 0;
 }
 
-.other-path .img {
+.other-path .discord {
     font-family: 'Fira Sans';
     font-size: calc(0.8rem + 0.8vmin);
     padding: 0 10px;
@@ -52,7 +52,7 @@
     transition: all 0.25s ease;
 }
 
-.other-path .img:hover {
+.other-path .discord:hover {
     color: #FF8700;
     transform: translate(0, -5px);
 }
